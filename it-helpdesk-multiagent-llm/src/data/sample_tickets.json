@@ -1,0 +1,12 @@
+[
+    {
+      "ticket_id": "INC-1001",
+      "text": "VPN stopped working after the latest update. I can't connect to any internal resources.",
+      "user": "alex.p@company.com"
+    },
+    {
+      "ticket_id": "INC-1002",
+      "text": "My laptop is super slow and overheating when I open Outlook and Teams.",
+      "user": "rachel.s@company.com"
+    }
+]
