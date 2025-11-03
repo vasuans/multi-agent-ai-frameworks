@@ -14,6 +14,11 @@ Right now this uses an OpenAI model through LangChain.
 Later we can swap this for a cheaper local model without touching main.py.
 """
 
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'src')))
+
 from utils.models import get_llm
 
 
